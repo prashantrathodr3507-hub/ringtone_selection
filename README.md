@@ -85,7 +85,7 @@ Follow these steps to get the project running on your local machine:
 1. Clone the Repository
    Bash
    
-   git clone https://github.com/YOUR_USERNAME/Ringtone-Selection-System.git
+   git clone https://github.com/prashantrathodr3507-hub/ringtone_selection.git
    cd Ringtone-Selection-System
    
 3. Compilation
